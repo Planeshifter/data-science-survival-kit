@@ -1,12 +1,16 @@
 {
-  "name": "talk-TODO",
+  "name": "data-science-survival-kit",
   "version": "0.0.0",
-  "description": "Talk for TODO.",
+  "description": "Slides for the 'Data Science Survival Kit' Workshop.",
   "author": {
-    "name": "Athan Reines",
-    "email": "kgryte@gmail.com"
+    "name": "Philipp Burckhardt",
+    "email": "pburckhardt@outlook.com"
   },
   "contributors": [
+    {
+      "name": "Philipp Burckhardt",
+      "email": "pburckhardt@outlook.com"
+    },
     {
       "name": "Athan Reines",
       "email": "kgryte@gmail.com"
@@ -16,7 +20,7 @@
   "main": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TODO/TODO.git"
+    "url": "https://github.com/Planeshifter/data-science-survival-kit"
   },
   "keywords": [
 		"talk",
@@ -24,7 +28,7 @@
 		"presentation"
 	],
   "bugs": {
-    "url": "https://github.com/TODO/TODO/issues"
+    "url": "https://github.com/Planeshifter/data-science-survival-kit/issues"
   },
   "dependencies": {},
   "devDependencies": {
