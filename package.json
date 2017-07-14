@@ -1,0 +1,35 @@
+{
+  "name": "talk-TODO",
+  "version": "0.0.0",
+  "description": "Talk for TODO.",
+  "author": {
+    "name": "Athan Reines",
+    "email": "kgryte@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Athan Reines",
+      "email": "kgryte@gmail.com"
+    }
+  ],
+  "scripts": {},
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TODO/TODO.git"
+  },
+  "keywords": [
+		"talk",
+		"slides",
+		"presentation"
+	],
+  "bugs": {
+    "url": "https://github.com/TODO/TODO/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "2.x.x",
+    "jshint-stylish": "2.x.x"
+  },
+  "license": ""
+}
