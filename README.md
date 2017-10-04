@@ -18,7 +18,7 @@ The workshop will close with an outline of future steps for data science in Java
 ## Installation
 
 ``` bash
-$ git clone https://github.com/Planeshifter/data-science-survival-kit
+$ git clone https://github.com/Planeshifter/data-science-survival-kit.git
 ```
 
 and
