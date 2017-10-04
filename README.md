@@ -1,6 +1,6 @@
 # Data Science Survival Kit
 
-> Slides for the "Data Science Survival Kit" Workshop.
+> Slides for the _Data Science Survival Kit_ Workshop.
 
 
 ## Abstract
@@ -18,7 +18,7 @@ The workshop will close with an outline of future steps for data science in Java
 ## Installation
 
 ``` bash
-$ git clone https://github.com/TODO/TODO
+$ git clone https://github.com/Planeshifter/data-science-survival-kit
 ```
 
 and
