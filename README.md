@@ -48,3 +48,6 @@ http://127.0.0.1:9000
 ## Copyright
 
 Copyright &copy; 2017. Philipp Burckhardt, Athan Reines.
+
+
+[stdlib]: https://stdlib.io
